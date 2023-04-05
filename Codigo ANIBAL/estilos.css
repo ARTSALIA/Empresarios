@@ -1,0 +1,33 @@
+body{
+    font-family: sans-serif;
+    color: #fff;
+    margin: 0;
+    padding: 0;
+    background-image: url('imgfondo.PNG');
+    background-size: cover;
+    background-position: center;
+    text-align: center;
+    background-repeat: no-repeat;
+    }
+
+.overlay {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background-color: rgba(0, 0, 0, 0.5);
+    color: #fff;
+    padding: 20px;
+    border-radius: 5px;
+}
+.cuerpo {
+    background-color:#fff;    
+    color: #000;
+    padding: 60px;
+    margin: 50px;
+    text-align: center;
+    border: 25px solid #dfa563;
+    border-radius: 15px;
+
+}
+
